@@ -1,7 +1,10 @@
 # **My Pharmacy App**   <img height="30" src="https://github.com/user-attachments/assets/184db0f2-4d9e-405e-b62f-79974591b991">
 
  It is a mobile phone application that works on devices that run on the Android operating system. The user enters the medication and it is stored in a database in a file on the device itself. All stored medications are later displayed within the application or based on the type of medication, with the possibility of deleting the medication from the list.
-## Details
+
+
+## Details  <img height="25" src="https://github.com/user-attachments/assets/bf806a63-42cf-4f70-8065-19f941b31fe2">
+
 * **main activity** : Shows a picture of the pharmacy
 Two buttons: The first button moves to the interface for adding medications, while the second button moves to the interface for displaying the medication
 * **add activity** : The user enters the drug data (name, type, price, available quantity) to be stored in the database
